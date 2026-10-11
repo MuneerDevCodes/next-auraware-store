@@ -48,7 +48,7 @@ To get started with Muhammad Muneer locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/MuneerDevCodes/next-auraware-store.git
    cd 
    ```
 
@@ -77,7 +77,7 @@ To get started with Muhammad Muneer locally, follow these steps:
 ## Project Structure
 
 ```bash
-Muneer/
+next-auraware-store/
 │
 ├── public/                # Static assets
 ├── src/
@@ -99,28 +99,6 @@ Muneer/
 ├── tailwind.config.ts      # Tailwind CSS configuration
 ├── tsconfig.json           # TypeScript configuration
 ```
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
-
-## Issues
-
-Feel free to submit issues for any bugs, feature requests, or general questions related to the project via [GitHub Issues](https://github.com/MuneerDevCodes/Muhammad Muneer/issues).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Credits
-
-
 
 ## Contact
 
